@@ -10,6 +10,7 @@ from model_building_area import BuildingArea, read_as_building_areas
 from model_hospital import Hospital
 from utils import get_distance_hav, read_json_file_as_list
 
+
 class RenderHospitalConstance:
     '''
     存放常数信息
@@ -29,9 +30,13 @@ class RenderHospitalConstance:
     }
 
 
-def get_value_of(building_area: BuildingArea, hospitals: list[Hospital]) -> float:
-
-
+def get_value_of(
+    building_area: BuildingArea,
+    hospitals: list[Hospital],
+) -> float:
+    '''
+    传入 building_area 和 hospitals 得到一个反映医院对该 building_area 价格影响程度的权值
+    '''
     value: float = 0
     for hospital in hospitals:
         distance: float = get_distance_hav(
