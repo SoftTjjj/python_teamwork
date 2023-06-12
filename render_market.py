@@ -66,7 +66,7 @@ if __name__ == '__main__':
             y_data.append([
                 get_value_of(building_area, [
                     Market.from_json(dct)
-                    for dct in read_json_file_as_list('./data/market.json')
+                    for dct in read_json_file_as_list('./data/markets.json')
                 ]),
                 building_area.name,
             ])

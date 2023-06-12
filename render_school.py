@@ -1,5 +1,5 @@
 '''
-render_schools.py
+render_school.py
 '''
 
 import math
@@ -11,7 +11,7 @@ from model_school import School
 from utils import get_distance_hav, read_json_file_as_list
 
 
-class RenderSchoolsConstance:
+class RenderSchoolConstance:
     '''
     存放常数信息
     '''
@@ -55,7 +55,7 @@ if __name__ == '__main__':
         page_title='南昌各地房价与学校距离加权图',
         theme=ThemeType.ESSOS,
     ))
-    for area, area_cn in RenderSchoolsConstance.area_dict.items():
+    for area, area_cn in RenderSchoolConstance.area_dict.items():
         building_areas = read_as_building_areas(
             f'./data/building_area/{area}.json')
         scatter.add_xaxis(xaxis_data=[
