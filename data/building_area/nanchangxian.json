@@ -195,71 +195,6 @@
     ]
   },
   {
-    "id": "2310200304",
-    "name": "鸿海.水岸之城",
-    "price": "8000",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200304.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 856543"
-    ],
-    "latitude": "28.52709197998047",
-    "longitude": "115.92781829833984",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "8000"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "10200"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "10000"
-      },
-      {
-        "year": "2020",
-        "month": "11",
-        "price": "10000"
-      },
-      {
-        "year": "2020",
-        "month": "11",
-        "price": "10000"
-      },
-      {
-        "year": "2020",
-        "month": "10",
-        "price": "10000"
-      },
-      {
-        "year": "2020",
-        "month": "08",
-        "price": "10000"
-      },
-      {
-        "year": "2020",
-        "month": "05",
-        "price": "--"
-      },
-      {
-        "year": "2020",
-        "month": "03",
-        "price": "10633"
-      },
-      {
-        "year": "2020",
-        "month": "03",
-        "price": "10633"
-      }
-    ]
-  },
-  {
     "id": "2310200346",
     "name": "幸福誉品",
     "price": "13000",
@@ -321,6 +256,71 @@
         "year": "2019",
         "month": "10",
         "price": "--"
+      }
+    ]
+  },
+  {
+    "id": "2310200304",
+    "name": "鸿海.水岸之城",
+    "price": "8000",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200304.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 856543"
+    ],
+    "latitude": "28.52709197998047",
+    "longitude": "115.92781829833984",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "8000"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "10200"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "10000"
+      },
+      {
+        "year": "2020",
+        "month": "11",
+        "price": "10000"
+      },
+      {
+        "year": "2020",
+        "month": "11",
+        "price": "10000"
+      },
+      {
+        "year": "2020",
+        "month": "10",
+        "price": "10000"
+      },
+      {
+        "year": "2020",
+        "month": "08",
+        "price": "10000"
+      },
+      {
+        "year": "2020",
+        "month": "05",
+        "price": "--"
+      },
+      {
+        "year": "2020",
+        "month": "03",
+        "price": "10633"
+      },
+      {
+        "year": "2020",
+        "month": "03",
+        "price": "10633"
       }
     ]
   },
@@ -415,161 +415,6 @@
     ]
   },
   {
-    "id": "2310200474",
-    "name": "景域铂悦",
-    "price": "13500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200474.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 616104"
-    ],
-    "latitude": "28.563283920288086",
-    "longitude": "115.93389892578125",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "09",
-        "price": "13500"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "13000"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "13200"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "13500"
-      },
-      {
-        "year": "2022",
-        "month": "01",
-        "price": "13500"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "13500"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "13500"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "13500"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "13500"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "13500"
-      }
-    ]
-  },
-  {
-    "id": "2310202686",
-    "name": "亚琦·城央尊品",
-    "price": "7800",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310202686.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 633080"
-    ],
-    "latitude": "28.558130264282227",
-    "longitude": "115.92261505126953",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "11",
-        "price": "7800"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "--"
-      }
-    ]
-  },
-  {
-    "id": "2310200482",
-    "name": "洪大合悦滨江",
-    "price": "14500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200482.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 730192"
-    ],
-    "latitude": "28.603261947631836",
-    "longitude": "115.84117889404297",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "14500"
-      }
-    ]
-  },
-  {
     "id": "2310200494",
     "name": "金茂宸南里",
     "price": "8500",
@@ -635,67 +480,67 @@
     ]
   },
   {
-    "id": "2310200478",
-    "name": "正荣金茂美的·云境",
-    "price": "9800",
+    "id": "2310200474",
+    "name": "景域铂悦",
+    "price": "13500",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200478.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200474.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 730060"
+      " 616104"
     ],
-    "latitude": "28.574676513671875",
-    "longitude": "115.84577941894531",
+    "latitude": "28.563283920288086",
+    "longitude": "115.93389892578125",
     "history_price": [
       {
-        "year": "2023",
+        "year": "2022",
+        "month": "09",
+        "price": "13500"
+      },
+      {
+        "year": "2022",
         "month": "05",
-        "price": "9800"
+        "price": "13000"
       },
       {
-        "year": "2023",
-        "month": "05",
-        "price": "9800"
-      },
-      {
-        "year": "2023",
-        "month": "04",
-        "price": "9900"
-      },
-      {
-        "year": "2023",
-        "month": "04",
-        "price": "9900"
-      },
-      {
-        "year": "2023",
+        "year": "2022",
         "month": "03",
-        "price": "--"
+        "price": "13200"
       },
       {
-        "year": "2023",
-        "month": "03",
-        "price": "9900"
-      },
-      {
-        "year": "2023",
+        "year": "2022",
         "month": "02",
-        "price": "--"
+        "price": "13500"
       },
       {
-        "year": "2023",
-        "month": "02",
-        "price": "9900"
-      },
-      {
-        "year": "2023",
+        "year": "2022",
         "month": "01",
-        "price": "9900"
+        "price": "13500"
       },
       {
-        "year": "2023",
-        "month": "01",
-        "price": "9900"
+        "year": "2021",
+        "month": "12",
+        "price": "13500"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "13500"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "13500"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "13500"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "13500"
       }
     ]
   },
@@ -765,6 +610,201 @@
     ]
   },
   {
+    "id": "2310200482",
+    "name": "洪大合悦滨江",
+    "price": "14500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200482.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 730192"
+    ],
+    "latitude": "28.603261947631836",
+    "longitude": "115.84117889404297",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "14500"
+      }
+    ]
+  },
+  {
+    "id": "2310200478",
+    "name": "正荣金茂美的·云境",
+    "price": "9800",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200478.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 730060"
+    ],
+    "latitude": "28.574676513671875",
+    "longitude": "115.84577941894531",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "05",
+        "price": "9800"
+      },
+      {
+        "year": "2023",
+        "month": "05",
+        "price": "9800"
+      },
+      {
+        "year": "2023",
+        "month": "04",
+        "price": "9900"
+      },
+      {
+        "year": "2023",
+        "month": "04",
+        "price": "9900"
+      },
+      {
+        "year": "2023",
+        "month": "03",
+        "price": "--"
+      },
+      {
+        "year": "2023",
+        "month": "03",
+        "price": "9900"
+      },
+      {
+        "year": "2023",
+        "month": "02",
+        "price": "--"
+      },
+      {
+        "year": "2023",
+        "month": "02",
+        "price": "9900"
+      },
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "9900"
+      },
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "9900"
+      }
+    ]
+  },
+  {
+    "id": "2311076030",
+    "name": "江铃瓦良格",
+    "price": "9500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2311076030.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 622007"
+    ],
+    "latitude": "28.52874183654785",
+    "longitude": "115.93746948242188",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "9500"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "9800"
+      },
+      {
+        "year": "2021",
+        "month": "01",
+        "price": "10300"
+      },
+      {
+        "year": "2020",
+        "month": "01",
+        "price": "10800"
+      },
+      {
+        "year": "2020",
+        "month": "01",
+        "price": "10800"
+      },
+      {
+        "year": "2019",
+        "month": "12",
+        "price": "10800"
+      },
+      {
+        "year": "2019",
+        "month": "12",
+        "price": "10800"
+      },
+      {
+        "year": "2019",
+        "month": "11",
+        "price": "10800"
+      },
+      {
+        "year": "2019",
+        "month": "11",
+        "price": "10800"
+      }
+    ]
+  },
+  {
     "id": "2310202952",
     "name": "银城·江苑",
     "price": "9500",
@@ -790,67 +830,27 @@
     ]
   },
   {
-    "id": "2310200484",
-    "name": "联发美的云玺台",
-    "price": "10000",
+    "id": "2310202686",
+    "name": "亚琦·城央尊品",
+    "price": "7800",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200484.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310202686.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 730978"
+      " 633080"
     ],
-    "latitude": "28.57622528076172",
-    "longitude": "115.8458023071289",
+    "latitude": "28.558130264282227",
+    "longitude": "115.92261505126953",
     "history_price": [
-      {
-        "year": "2023",
-        "month": "01",
-        "price": "10000"
-      },
       {
         "year": "2022",
         "month": "11",
-        "price": "12000"
+        "price": "7800"
       },
       {
         "year": "2022",
         "month": "05",
-        "price": "12000"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "11500"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "12000"
-      },
-      {
-        "year": "2022",
-        "month": "01",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "05",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "05",
-        "price": "12300"
+        "price": "--"
       }
     ]
   },
@@ -920,6 +920,71 @@
     ]
   },
   {
+    "id": "2310200484",
+    "name": "联发美的云玺台",
+    "price": "10000",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200484.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 730978"
+    ],
+    "latitude": "28.57622528076172",
+    "longitude": "115.8458023071289",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "10000"
+      },
+      {
+        "year": "2022",
+        "month": "11",
+        "price": "12000"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "12000"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "11500"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "12000"
+      },
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "05",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "05",
+        "price": "12300"
+      }
+    ]
+  },
+  {
     "id": "2310202766",
     "name": "锦尚雅苑",
     "price": "7999",
@@ -932,136 +997,6 @@
     "latitude": "28.598207473754883",
     "longitude": "115.87602996826172",
     "history_price": []
-  },
-  {
-    "id": "2311076030",
-    "name": "江铃瓦良格",
-    "price": "9500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2311076030.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 622007"
-    ],
-    "latitude": "28.52874183654785",
-    "longitude": "115.93746948242188",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "9500"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "9800"
-      },
-      {
-        "year": "2021",
-        "month": "01",
-        "price": "10300"
-      },
-      {
-        "year": "2020",
-        "month": "01",
-        "price": "10800"
-      },
-      {
-        "year": "2020",
-        "month": "01",
-        "price": "10800"
-      },
-      {
-        "year": "2019",
-        "month": "12",
-        "price": "10800"
-      },
-      {
-        "year": "2019",
-        "month": "12",
-        "price": "10800"
-      },
-      {
-        "year": "2019",
-        "month": "11",
-        "price": "10800"
-      },
-      {
-        "year": "2019",
-        "month": "11",
-        "price": "10800"
-      }
-    ]
-  },
-  {
-    "id": "2310199750",
-    "name": "鸿海万科天空之城",
-    "price": "12500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310199750.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 845232"
-    ],
-    "latitude": "28.536697387695312",
-    "longitude": "115.93690490722656",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "07",
-        "price": "12500"
-      },
-      {
-        "year": "2022",
-        "month": "07",
-        "price": "12500"
-      },
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "12700"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "12700"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "12700"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "12700"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "12700"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "12700"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "11000"
-      },
-      {
-        "year": "2022",
-        "month": "01",
-        "price": "12500"
-      }
-    ]
   },
   {
     "id": "2310200502",
@@ -1194,197 +1129,67 @@
     ]
   },
   {
-    "id": "2310200612",
-    "name": "江铃新力铂萃中央",
-    "price": "12000",
+    "id": "2310200210",
+    "name": "锦尚天域",
+    "price": "8000",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200612.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200210.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 616679"
+      " 898808"
     ],
-    "latitude": "28.582887649536133",
-    "longitude": "115.91836547851562",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "07",
-        "price": "12000"
-      },
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "11400"
-      },
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "11400"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "11400"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "11400"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "13000"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "13000"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "13000"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "13000"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "13000"
-      }
-    ]
-  },
-  {
-    "id": "2310201084",
-    "name": "九颂大唐·山湖印",
-    "price": "11500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310201084.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 625410"
-    ],
-    "latitude": "28.562908172607422",
-    "longitude": "115.9500961303711",
+    "latitude": "28.595609664916992",
+    "longitude": "115.85222625732422",
     "history_price": [
       {
         "year": "2022",
         "month": "05",
-        "price": "11500"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "11500"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "11500"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "11500"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "11500"
+        "price": "8000"
       },
       {
         "year": "2021",
+        "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "13000"
+      },
+      {
+        "year": "2020",
         "month": "12",
-        "price": "11500"
-      },
-      {
-        "year": "2021",
-        "month": "11",
         "price": "--"
       },
       {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
+        "year": "2020",
+        "month": "08",
+        "price": "12500"
       },
       {
-        "year": "2021",
-        "month": "10",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "--"
-      }
-    ]
-  },
-  {
-    "id": "2310200086",
-    "name": "凯宇海德公园",
-    "price": "11500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200086.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 881885"
-    ],
-    "latitude": "28.6004638671875",
-    "longitude": "115.84064483642578",
-    "history_price": [
-      {
-        "year": "2022",
+        "year": "2020",
         "month": "05",
-        "price": "--"
+        "price": "13300"
       },
       {
-        "year": "2022",
-        "month": "03",
+        "year": "2020",
+        "month": "04",
         "price": "12000"
       },
       {
-        "year": "2022",
+        "year": "2020",
         "month": "01",
-        "price": "11000"
+        "price": "12600"
       },
       {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "02",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
+        "year": "2020",
         "month": "01",
-        "price": "12000"
+        "price": "12600"
       },
       {
-        "year": "2020",
+        "year": "2019",
         "month": "12",
-        "price": "12000"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "12000"
-      },
-      {
-        "year": "2020",
-        "month": "03",
-        "price": "13000"
+        "price": "12600"
       }
     ]
   },
@@ -1454,67 +1259,67 @@
     ]
   },
   {
-    "id": "2310200210",
-    "name": "锦尚天域",
-    "price": "8000",
+    "id": "2310199750",
+    "name": "鸿海万科天空之城",
+    "price": "12500",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200210.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310199750.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 898808"
+      " 845232"
     ],
-    "latitude": "28.595609664916992",
-    "longitude": "115.85222625732422",
+    "latitude": "28.536697387695312",
+    "longitude": "115.93690490722656",
     "history_price": [
       {
         "year": "2022",
-        "month": "05",
-        "price": "8000"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "13000"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "--"
-      },
-      {
-        "year": "2020",
-        "month": "08",
+        "month": "07",
         "price": "12500"
       },
       {
-        "year": "2020",
+        "year": "2022",
+        "month": "07",
+        "price": "12500"
+      },
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "12700"
+      },
+      {
+        "year": "2022",
         "month": "05",
-        "price": "13300"
+        "price": "12700"
       },
       {
-        "year": "2020",
+        "year": "2022",
+        "month": "05",
+        "price": "12700"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "12700"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "12700"
+      },
+      {
+        "year": "2022",
         "month": "04",
-        "price": "12000"
+        "price": "12700"
       },
       {
-        "year": "2020",
+        "year": "2022",
+        "month": "02",
+        "price": "11000"
+      },
+      {
+        "year": "2022",
         "month": "01",
-        "price": "12600"
-      },
-      {
-        "year": "2020",
-        "month": "01",
-        "price": "12600"
-      },
-      {
-        "year": "2019",
-        "month": "12",
-        "price": "12600"
+        "price": "12500"
       }
     ]
   },
@@ -1579,6 +1384,241 @@
       {
         "year": "2022",
         "month": "01",
+        "price": "--"
+      }
+    ]
+  },
+  {
+    "id": "2310200624",
+    "name": "彰泰中梁力高·君誉印象",
+    "price": "10000",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200624.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 617820"
+    ],
+    "latitude": "28.566129684448242",
+    "longitude": "115.84276580810547",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "07",
+        "price": "10000"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "9300"
+      },
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "9400"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "11000"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "10500"
+      }
+    ]
+  },
+  {
+    "id": "2310200086",
+    "name": "凯宇海德公园",
+    "price": "11500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200086.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 881885"
+    ],
+    "latitude": "28.6004638671875",
+    "longitude": "115.84064483642578",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "12000"
+      },
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "11000"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "13000"
+      },
+      {
+        "year": "2021",
+        "month": "02",
+        "price": "13000"
+      },
+      {
+        "year": "2021",
+        "month": "01",
+        "price": "12000"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "12000"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "12000"
+      },
+      {
+        "year": "2020",
+        "month": "03",
+        "price": "13000"
+      }
+    ]
+  },
+  {
+    "id": "2310200612",
+    "name": "江铃新力铂萃中央",
+    "price": "12000",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200612.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 616679"
+    ],
+    "latitude": "28.582887649536133",
+    "longitude": "115.91836547851562",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "07",
+        "price": "12000"
+      },
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "11400"
+      },
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "11400"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "11400"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "11400"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "13000"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "13000"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "13000"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "13000"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "13000"
+      }
+    ]
+  },
+  {
+    "id": "2310202808",
+    "name": "万景天宸",
+    "price": "7800",
+    "img_url": "https://imgwcs2.soufunimg.com/viewimage/house/2022_09/13/8aadc3d7-27eb-47bd-a684-f6be6ac6322b/168x112.jpg?t=1",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310202808.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 636481"
+    ],
+    "latitude": "28.576139450073242",
+    "longitude": "115.90998077392578",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "02",
+        "price": "7800"
+      },
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "7800"
+      },
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "7800"
+      },
+      {
+        "year": "2022",
+        "month": "12",
+        "price": "7800"
+      },
+      {
+        "year": "2022",
+        "month": "11",
         "price": "--"
       }
     ]
@@ -1649,172 +1689,132 @@
     ]
   },
   {
-    "id": "2310200624",
-    "name": "彰泰中梁力高·君誉印象",
-    "price": "10000",
+    "id": "2310201084",
+    "name": "九颂大唐·山湖印",
+    "price": "11500",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200624.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310201084.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 617820"
+      " 625410"
     ],
-    "latitude": "28.566129684448242",
-    "longitude": "115.84276580810547",
+    "latitude": "28.562908172607422",
+    "longitude": "115.9500961303711",
     "history_price": [
       {
         "year": "2022",
-        "month": "07",
-        "price": "10000"
+        "month": "05",
+        "price": "11500"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "11500"
       },
       {
         "year": "2022",
         "month": "03",
-        "price": "9300"
+        "price": "11500"
       },
       {
         "year": "2022",
-        "month": "01",
-        "price": "10500"
+        "month": "03",
+        "price": "11500"
       },
       {
-        "year": "2021",
-        "month": "12",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "9400"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "11000"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "10500"
-      }
-    ]
-  },
-  {
-    "id": "2310202808",
-    "name": "万景天宸",
-    "price": "7800",
-    "img_url": "https://imgwcs2.soufunimg.com/viewimage/house/2022_09/13/8aadc3d7-27eb-47bd-a684-f6be6ac6322b/168x112.jpg?t=1",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310202808.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 636481"
-    ],
-    "latitude": "28.576139450073242",
-    "longitude": "115.90998077392578",
-    "history_price": [
-      {
-        "year": "2023",
+        "year": "2022",
         "month": "02",
-        "price": "7800"
+        "price": "11500"
       },
       {
-        "year": "2023",
-        "month": "01",
-        "price": "7800"
-      },
-      {
-        "year": "2023",
-        "month": "01",
-        "price": "7800"
-      },
-      {
-        "year": "2022",
+        "year": "2021",
         "month": "12",
-        "price": "7800"
+        "price": "11500"
       },
       {
-        "year": "2022",
+        "year": "2021",
         "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "10",
         "price": "--"
       }
     ]
   },
   {
-    "id": "2310200524",
-    "name": "嘉福新天地",
-    "price": "9700",
+    "id": "2310200630",
+    "name": "光谷未来学府",
+    "price": "9000",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200524.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200630.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 611095"
+      " 617790"
     ],
-    "latitude": "28.56666374206543",
-    "longitude": "115.84601593017578",
+    "latitude": "28.582799911499023",
+    "longitude": "115.94050598144531",
     "history_price": [
       {
-        "year": "2023",
-        "month": "01",
-        "price": "9700"
-      },
-      {
-        "year": "2023",
-        "month": "01",
-        "price": "9700"
-      },
-      {
         "year": "2022",
+        "month": "04",
+        "price": "9000"
+      },
+      {
+        "year": "2021",
         "month": "12",
-        "price": "9700"
+        "price": "--"
       },
       {
-        "year": "2022",
+        "year": "2021",
         "month": "12",
-        "price": "9700"
+        "price": "--"
       },
       {
-        "year": "2022",
+        "year": "2021",
         "month": "11",
-        "price": "9700"
+        "price": "--"
       },
       {
-        "year": "2022",
+        "year": "2021",
+        "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
         "month": "10",
-        "price": "9700"
+        "price": "--"
       },
       {
-        "year": "2022",
+        "year": "2021",
         "month": "10",
-        "price": "9700"
+        "price": "--"
       },
       {
-        "year": "2022",
+        "year": "2021",
         "month": "09",
-        "price": "9700"
+        "price": "12500"
       },
       {
-        "year": "2022",
+        "year": "2021",
+        "month": "09",
+        "price": "12500"
+      },
+      {
+        "year": "2021",
         "month": "08",
-        "price": "9700"
-      },
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "9700"
+        "price": "12500"
       }
     ]
   },
@@ -1884,67 +1884,262 @@
     ]
   },
   {
-    "id": "2310200630",
-    "name": "光谷未来学府",
-    "price": "9000",
+    "id": "2310200524",
+    "name": "嘉福新天地",
+    "price": "9700",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200630.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200524.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 617790"
+      " 611095"
     ],
-    "latitude": "28.582799911499023",
-    "longitude": "115.94050598144531",
+    "latitude": "28.56666374206543",
+    "longitude": "115.84601593017578",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "9700"
+      },
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "12",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "12",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "11",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "10",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "10",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "09",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "08",
+        "price": "9700"
+      },
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "9700"
+      }
+    ]
+  },
+  {
+    "id": "2310200628",
+    "name": "文澜苑",
+    "price": "9500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200628.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 617488"
+    ],
+    "latitude": "28.57444190979004",
+    "longitude": "115.8494873046875",
     "history_price": [
       {
         "year": "2022",
-        "month": "04",
-        "price": "9000"
+        "month": "09",
+        "price": "9500"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "10000"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "10000"
+      },
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "9500"
       },
       {
         "year": "2021",
         "month": "12",
-        "price": "--"
+        "price": "9500"
       },
       {
         "year": "2021",
         "month": "12",
-        "price": "--"
+        "price": "10500"
       },
       {
         "year": "2021",
         "month": "11",
-        "price": "--"
+        "price": "10500"
       },
       {
         "year": "2021",
         "month": "11",
-        "price": "--"
+        "price": "10500"
       },
       {
         "year": "2021",
         "month": "10",
-        "price": "--"
+        "price": "10500"
       },
       {
         "year": "2021",
         "month": "10",
-        "price": "--"
+        "price": "11500"
+      }
+    ]
+  },
+  {
+    "id": "2310200498",
+    "name": "联发时代天悦",
+    "price": "11650",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200498.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 605363"
+    ],
+    "latitude": "28.57581329345703",
+    "longitude": "115.84928131103516",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "11650"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "11650"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "12000"
       },
       {
         "year": "2021",
         "month": "09",
-        "price": "12500"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "12500"
+        "price": "12000"
       },
       {
         "year": "2021",
         "month": "08",
-        "price": "12500"
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "06",
+        "price": "11600"
+      },
+      {
+        "year": "2021",
+        "month": "05",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "11600"
+      }
+    ]
+  },
+  {
+    "id": "2310200560",
+    "name": "华良枫和府",
+    "price": "9300",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200560.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 613199"
+    ],
+    "latitude": "28.541370391845703",
+    "longitude": "115.92426300048828",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "04",
+        "price": "9300"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "9300"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "11000"
+      },
+      {
+        "year": "2021",
+        "month": "02",
+        "price": "9500"
+      },
+      {
+        "year": "2021",
+        "month": "01",
+        "price": "10000"
+      },
+      {
+        "year": "2021",
+        "month": "01",
+        "price": "8857"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "8857"
       }
     ]
   },
@@ -2079,67 +2274,132 @@
     ]
   },
   {
-    "id": "2310200498",
-    "name": "联发时代天悦",
-    "price": "11650",
+    "id": "2310200130",
+    "name": "美的花湾城",
+    "price": "8500",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200498.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200130.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 605363"
+      " 887885"
     ],
-    "latitude": "28.57581329345703",
-    "longitude": "115.84928131103516",
+    "latitude": "28.748735427856445",
+    "longitude": "115.9649658203125",
     "history_price": [
       {
-        "year": "2022",
-        "month": "01",
-        "price": "11650"
+        "year": "2023",
+        "month": "05",
+        "price": "8500"
       },
       {
         "year": "2021",
         "month": "11",
-        "price": "11650"
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "03",
+        "price": "11000"
+      },
+      {
+        "year": "2021",
+        "month": "01",
+        "price": "10500"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "11000"
+      },
+      {
+        "year": "2020",
+        "month": "06",
+        "price": "10800"
+      },
+      {
+        "year": "2020",
+        "month": "06",
+        "price": "10800"
+      },
+      {
+        "year": "2020",
+        "month": "05",
+        "price": "10800"
+      },
+      {
+        "year": "2020",
+        "month": "05",
+        "price": "10800"
+      },
+      {
+        "year": "2020",
+        "month": "04",
+        "price": "10800"
+      }
+    ]
+  },
+  {
+    "id": "2310199628",
+    "name": "南昌恒大珺庭",
+    "price": "13000",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310199628.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 840006"
+    ],
+    "latitude": "28.582443237304688",
+    "longitude": "115.92924499511719",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "13000"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "13000"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "13000"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "13000"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "13000"
       },
       {
         "year": "2021",
         "month": "10",
-        "price": "12000"
+        "price": "13000"
       },
       {
         "year": "2021",
         "month": "10",
-        "price": "12000"
+        "price": "13000"
       },
       {
         "year": "2021",
         "month": "09",
-        "price": "12000"
+        "price": "13000"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "13000"
       },
       {
         "year": "2021",
         "month": "08",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "06",
-        "price": "11600"
-      },
-      {
-        "year": "2021",
-        "month": "05",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "11600"
+        "price": "13000"
       }
     ]
   },
@@ -2207,277 +2467,6 @@
         "price": "--"
       }
     ]
-  },
-  {
-    "id": "2310200628",
-    "name": "文澜苑",
-    "price": "9500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200628.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 617488"
-    ],
-    "latitude": "28.57444190979004",
-    "longitude": "115.8494873046875",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "09",
-        "price": "9500"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "10000"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "10000"
-      },
-      {
-        "year": "2022",
-        "month": "01",
-        "price": "9500"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "9500"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "11500"
-      }
-    ]
-  },
-  {
-    "id": "2310200560",
-    "name": "华良枫和府",
-    "price": "9300",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200560.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 613199"
-    ],
-    "latitude": "28.541370391845703",
-    "longitude": "115.92426300048828",
-    "history_price": [
-      {
-        "year": "2023",
-        "month": "04",
-        "price": "9300"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "9300"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "11000"
-      },
-      {
-        "year": "2021",
-        "month": "02",
-        "price": "9500"
-      },
-      {
-        "year": "2021",
-        "month": "01",
-        "price": "10000"
-      },
-      {
-        "year": "2021",
-        "month": "01",
-        "price": "8857"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "8857"
-      }
-    ]
-  },
-  {
-    "id": "2310200130",
-    "name": "美的花湾城",
-    "price": "8500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200130.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 887885"
-    ],
-    "latitude": "28.748735427856445",
-    "longitude": "115.9649658203125",
-    "history_price": [
-      {
-        "year": "2023",
-        "month": "05",
-        "price": "8500"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "03",
-        "price": "11000"
-      },
-      {
-        "year": "2021",
-        "month": "01",
-        "price": "10500"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "11000"
-      },
-      {
-        "year": "2020",
-        "month": "06",
-        "price": "10800"
-      },
-      {
-        "year": "2020",
-        "month": "06",
-        "price": "10800"
-      },
-      {
-        "year": "2020",
-        "month": "05",
-        "price": "10800"
-      },
-      {
-        "year": "2020",
-        "month": "05",
-        "price": "10800"
-      },
-      {
-        "year": "2020",
-        "month": "04",
-        "price": "10800"
-      }
-    ]
-  },
-  {
-    "id": "2310202858",
-    "name": "汇仁欣光花园",
-    "price": "7000",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310202858.htm#detail_map",
-    "phone": [],
-    "latitude": "28.539602279663086",
-    "longitude": "115.95849609375",
-    "history_price": [
-      {
-        "year": "2023",
-        "month": "05",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "05",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "04",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "04",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "03",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "03",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "02",
-        "price": "--"
-      },
-      {
-        "year": "2023",
-        "month": "02",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "01",
-        "price": "7000"
-      },
-      {
-        "year": "2023",
-        "month": "01",
-        "price": "7000"
-      }
-    ]
-  },
-  {
-    "id": "2310202020",
-    "name": "锦天赣江印",
-    "price": "7000",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310202020.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 627461"
-    ],
-    "latitude": "28.58529281616211",
-    "longitude": "115.83552551269531",
-    "history_price": []
   },
   {
     "id": "2310202784",
@@ -2559,6 +2548,111 @@
     ]
   },
   {
+    "id": "2310199668",
+    "name": "汇仁自在天地",
+    "price": "10800",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310199668.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 709833"
+    ],
+    "latitude": "28.575809478759766",
+    "longitude": "115.91766357421875",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "04",
+        "price": "10800"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "11500"
+      },
+      {
+        "year": "2020",
+        "month": "02",
+        "price": "13600"
+      },
+      {
+        "year": "2020",
+        "month": "01",
+        "price": "13600"
+      },
+      {
+        "year": "2019",
+        "month": "12",
+        "price": "13600"
+      },
+      {
+        "year": "2019",
+        "month": "12",
+        "price": "14000"
+      },
+      {
+        "year": "2019",
+        "month": "11",
+        "price": "14000"
+      },
+      {
+        "year": "2019",
+        "month": "10",
+        "price": "14000"
+      },
+      {
+        "year": "2019",
+        "month": "05",
+        "price": "--"
+      },
+      {
+        "year": "2019",
+        "month": "04",
+        "price": "14500"
+      }
+    ]
+  },
+  {
+    "id": "2310202018",
+    "name": "聚仁公园里",
+    "price": "9800",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310202018.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 628108"
+    ],
+    "latitude": "28.558401107788086",
+    "longitude": "115.84198760986328",
+    "history_price": [
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "9800"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "7500"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "8000"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "--"
+      }
+    ]
+  },
+  {
     "id": "2311185220",
     "name": "上峰景城",
     "price": "10500",
@@ -2624,172 +2718,78 @@
     ]
   },
   {
-    "id": "2310202018",
-    "name": "聚仁公园里",
-    "price": "9800",
+    "id": "2310202020",
+    "name": "锦天赣江印",
+    "price": "7000",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310202018.htm#detail_map",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310202020.htm#detail_map",
     "phone": [
       "400-176-0760 ",
-      " 628108"
+      " 627461"
     ],
-    "latitude": "28.558401107788086",
-    "longitude": "115.84198760986328",
-    "history_price": [
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "9800"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "7500"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "8000"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "--"
-      }
-    ]
+    "latitude": "28.58529281616211",
+    "longitude": "115.83552551269531",
+    "history_price": []
   },
   {
-    "id": "2310199628",
-    "name": "南昌恒大珺庭",
-    "price": "13000",
+    "id": "2310202858",
+    "name": "汇仁欣光花园",
+    "price": "7000",
     "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310199628.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 840006"
-    ],
-    "latitude": "28.582443237304688",
-    "longitude": "115.92924499511719",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "01",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "13000"
-      },
-      {
-        "year": "2021",
-        "month": "08",
-        "price": "13000"
-      }
-    ]
-  },
-  {
-    "id": "2310199668",
-    "name": "汇仁自在天地",
-    "price": "10800",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310199668.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 709833"
-    ],
-    "latitude": "28.575809478759766",
-    "longitude": "115.91766357421875",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310202858.htm#detail_map",
+    "phone": [],
+    "latitude": "28.539602279663086",
+    "longitude": "115.95849609375",
     "history_price": [
       {
         "year": "2023",
+        "month": "06",
+        "price": "7000"
+      },
+      {
+        "year": "2023",
+        "month": "05",
+        "price": "7000"
+      },
+      {
+        "year": "2023",
+        "month": "05",
+        "price": "7000"
+      },
+      {
+        "year": "2023",
         "month": "04",
-        "price": "10800"
+        "price": "7000"
       },
       {
-        "year": "2022",
-        "month": "05",
-        "price": "11500"
+        "year": "2023",
+        "month": "04",
+        "price": "7000"
       },
       {
-        "year": "2020",
+        "year": "2023",
+        "month": "03",
+        "price": "7000"
+      },
+      {
+        "year": "2023",
+        "month": "03",
+        "price": "7000"
+      },
+      {
+        "year": "2023",
         "month": "02",
-        "price": "13600"
-      },
-      {
-        "year": "2020",
-        "month": "01",
-        "price": "13600"
-      },
-      {
-        "year": "2019",
-        "month": "12",
-        "price": "13600"
-      },
-      {
-        "year": "2019",
-        "month": "12",
-        "price": "14000"
-      },
-      {
-        "year": "2019",
-        "month": "11",
-        "price": "14000"
-      },
-      {
-        "year": "2019",
-        "month": "10",
-        "price": "14000"
-      },
-      {
-        "year": "2019",
-        "month": "05",
         "price": "--"
       },
       {
-        "year": "2019",
-        "month": "04",
-        "price": "14500"
+        "year": "2023",
+        "month": "02",
+        "price": "7000"
+      },
+      {
+        "year": "2023",
+        "month": "01",
+        "price": "7000"
       }
     ]
   },
@@ -2859,71 +2859,6 @@
     ]
   },
   {
-    "id": "2310200230",
-    "name": "润永通东投悦港城",
-    "price": "10500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200230.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 899802"
-    ],
-    "latitude": "28.550321578979492",
-    "longitude": "115.91850280761719",
-    "history_price": [
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "04",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "01",
-        "price": "10500"
-      },
-      {
-        "year": "2021",
-        "month": "01",
-        "price": "10500"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "10500"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "10500"
-      },
-      {
-        "year": "2020",
-        "month": "11",
-        "price": "10500"
-      },
-      {
-        "year": "2020",
-        "month": "11",
-        "price": "10500"
-      },
-      {
-        "year": "2020",
-        "month": "10",
-        "price": "10500"
-      },
-      {
-        "year": "2020",
-        "month": "10",
-        "price": "10800"
-      }
-    ]
-  },
-  {
     "id": "2310200100",
     "name": "煌盛熙岸公园",
     "price": "11000",
@@ -2985,6 +2920,71 @@
         "year": "2019",
         "month": "10",
         "price": "12800"
+      }
+    ]
+  },
+  {
+    "id": "2310200230",
+    "name": "润永通东投悦港城",
+    "price": "10500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200230.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 899802"
+    ],
+    "latitude": "28.550321578979492",
+    "longitude": "115.91850280761719",
+    "history_price": [
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "04",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "01",
+        "price": "10500"
+      },
+      {
+        "year": "2021",
+        "month": "01",
+        "price": "10500"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "10500"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "10500"
+      },
+      {
+        "year": "2020",
+        "month": "11",
+        "price": "10500"
+      },
+      {
+        "year": "2020",
+        "month": "11",
+        "price": "10500"
+      },
+      {
+        "year": "2020",
+        "month": "10",
+        "price": "10500"
+      },
+      {
+        "year": "2020",
+        "month": "10",
+        "price": "10800"
       }
     ]
   },

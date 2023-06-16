@@ -346,71 +346,6 @@
     "history_price": []
   },
   {
-    "id": "2310199390",
-    "name": "绿地朝阳中心",
-    "price": "8500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310199390.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 834248"
-    ],
-    "latitude": "28.651643753051758",
-    "longitude": "115.87312316894531",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "09",
-        "price": "8500"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "01",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "12000"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "9500"
-      }
-    ]
-  },
-  {
     "id": "2310201040",
     "name": "鸥鹏湾",
     "price": "15000",
@@ -472,6 +407,71 @@
         "year": "2022",
         "month": "02",
         "price": "15000"
+      }
+    ]
+  },
+  {
+    "id": "2310199390",
+    "name": "绿地朝阳中心",
+    "price": "8500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310199390.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 834248"
+    ],
+    "latitude": "28.651643753051758",
+    "longitude": "115.87312316894531",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "09",
+        "price": "8500"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "12000"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "10",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "09",
+        "price": "9500"
       }
     ]
   },
@@ -595,8 +595,8 @@
       "400-176-0760 ",
       " 869148"
     ],
-    "latitude": "28.612510681152344",
-    "longitude": "115.87261199951172",
+    "latitude": "None",
+    "longitude": "None",
     "history_price": [
       {
         "year": "2022",

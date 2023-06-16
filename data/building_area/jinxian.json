@@ -1,5 +1,63 @@
 [
   {
+    "id": "2310200614",
+    "name": "丽都水岸",
+    "price": "3380",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200614.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 617270"
+    ],
+    "latitude": "28.37126350402832",
+    "longitude": "116.2001953125",
+    "history_price": []
+  },
+  {
+    "id": "2310200528",
+    "name": "中骏新天地",
+    "price": "7500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200528.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 605445"
+    ],
+    "latitude": "28.378297805786133",
+    "longitude": "116.28276824951172",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "7500"
+      },
+      {
+        "year": "2020",
+        "month": "12",
+        "price": "7900"
+      },
+      {
+        "year": "2020",
+        "month": "07",
+        "price": "--"
+      }
+    ]
+  },
+  {
+    "id": "2310200566",
+    "name": "盛辉国际",
+    "price": "5800",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200566.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 613296"
+    ],
+    "latitude": "28.379531860351562",
+    "longitude": "116.23734283447266",
+    "history_price": []
+  },
+  {
     "id": "2310200348",
     "name": "九颂康瑞|和园",
     "price": "8150",
@@ -63,64 +121,6 @@
         "price": "7900"
       }
     ]
-  },
-  {
-    "id": "2310200614",
-    "name": "丽都水岸",
-    "price": "3380",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200614.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 617270"
-    ],
-    "latitude": "28.37126350402832",
-    "longitude": "116.2001953125",
-    "history_price": []
-  },
-  {
-    "id": "2310200528",
-    "name": "中骏新天地",
-    "price": "7500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200528.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 605445"
-    ],
-    "latitude": "28.378297805786133",
-    "longitude": "116.28276824951172",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "7500"
-      },
-      {
-        "year": "2020",
-        "month": "12",
-        "price": "7900"
-      },
-      {
-        "year": "2020",
-        "month": "07",
-        "price": "--"
-      }
-    ]
-  },
-  {
-    "id": "2310200566",
-    "name": "盛辉国际",
-    "price": "5800",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200566.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 613296"
-    ],
-    "latitude": "28.379531860351562",
-    "longitude": "116.23734283447266",
-    "history_price": []
   },
   {
     "id": "2310200564",

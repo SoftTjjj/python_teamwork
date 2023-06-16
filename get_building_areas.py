@@ -7,7 +7,8 @@ import json
 import re
 import requests
 from lxml import etree
-from retry import retry
+from \
+    retry import retry
 
 from utils import read_json_file_as_list
 from model_building_area import BuildingArea, BuildingAreaConstance, HistoryPrice

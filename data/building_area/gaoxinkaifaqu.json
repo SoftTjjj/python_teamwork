@@ -325,71 +325,6 @@
     ]
   },
   {
-    "id": "2310200588",
-    "name": "赣电东方城",
-    "price": "14500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200588.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 615415"
-    ],
-    "latitude": "28.677867889404297",
-    "longitude": "116.04324340820312",
-    "history_price": [
-      {
-        "year": "2023",
-        "month": "02",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "11",
-        "price": "14800"
-      },
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "14500"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "8000"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "14000"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "14000"
-      },
-      {
-        "year": "2022",
-        "month": "01",
-        "price": "14000"
-      }
-    ]
-  },
-  {
     "id": "2310200500",
     "name": "正荣棠悦",
     "price": "15000",
@@ -451,6 +386,71 @@
         "year": "2021",
         "month": "09",
         "price": "16500"
+      }
+    ]
+  },
+  {
+    "id": "2310200588",
+    "name": "赣电东方城",
+    "price": "14500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200588.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 615415"
+    ],
+    "latitude": "28.677867889404297",
+    "longitude": "116.04324340820312",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "02",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "11",
+        "price": "14800"
+      },
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "14500"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "8000"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "14000"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "14000"
+      },
+      {
+        "year": "2022",
+        "month": "01",
+        "price": "14000"
       }
     ]
   },
@@ -1016,71 +1016,6 @@
         "year": "2020",
         "month": "12",
         "price": "--"
-      }
-    ]
-  },
-  {
-    "id": "2310200626",
-    "name": "中国铁建·书香瑶庭",
-    "price": "15000",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200626.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 617769"
-    ],
-    "latitude": "28.70088005065918",
-    "longitude": "116.04042053222656",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "10",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "09",
-        "price": "15000"
-      },
-      {
-        "year": "2021",
-        "month": "08",
-        "price": "15000"
       }
     ]
   }

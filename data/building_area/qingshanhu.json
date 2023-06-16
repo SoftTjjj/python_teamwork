@@ -120,6 +120,71 @@
     ]
   },
   {
+    "id": "2310200534",
+    "name": "力高国资雍江府",
+    "price": "16000",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200534.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 605892"
+    ],
+    "latitude": "28.7294979095459",
+    "longitude": "115.94754028320312",
+    "history_price": [
+      {
+        "year": "2023",
+        "month": "05",
+        "price": "16000"
+      },
+      {
+        "year": "2023",
+        "month": "05",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "04",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "04",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "03",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "03",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "03",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "02",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "02",
+        "price": "16500"
+      },
+      {
+        "year": "2023",
+        "month": "02",
+        "price": "16500"
+      }
+    ]
+  },
+  {
     "id": "2310200054",
     "name": "华润青山湖万象汇",
     "price": "8800",
@@ -315,71 +380,6 @@
     ]
   },
   {
-    "id": "2310200534",
-    "name": "力高国资雍江府",
-    "price": "16000",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200534.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 605892"
-    ],
-    "latitude": "28.7294979095459",
-    "longitude": "115.94754028320312",
-    "history_price": [
-      {
-        "year": "2023",
-        "month": "05",
-        "price": "16000"
-      },
-      {
-        "year": "2023",
-        "month": "05",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "04",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "04",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "03",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "03",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "03",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "02",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "02",
-        "price": "16500"
-      },
-      {
-        "year": "2023",
-        "month": "02",
-        "price": "16500"
-      }
-    ]
-  },
-  {
     "id": "2310200550",
     "name": "华林·青山湖",
     "price": "15000",
@@ -510,71 +510,6 @@
     ]
   },
   {
-    "id": "2310200412",
-    "name": "龙湖·铂金岛",
-    "price": "15500",
-    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
-    "map_url": "https://nc.newhouse.fang.com/loupan/2310200412.htm#detail_map",
-    "phone": [
-      "400-176-0760 ",
-      " 717959"
-    ],
-    "latitude": "28.650781631469727",
-    "longitude": "115.96408081054688",
-    "history_price": [
-      {
-        "year": "2022",
-        "month": "06",
-        "price": "15500"
-      },
-      {
-        "year": "2022",
-        "month": "05",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "04",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "03",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "--"
-      },
-      {
-        "year": "2022",
-        "month": "02",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "12",
-        "price": "--"
-      },
-      {
-        "year": "2021",
-        "month": "11",
-        "price": "--"
-      }
-    ]
-  },
-  {
     "id": "2310199966",
     "name": "龙居东郡",
     "price": "16000",
@@ -636,6 +571,71 @@
         "year": "2019",
         "month": "10",
         "price": "14500"
+      }
+    ]
+  },
+  {
+    "id": "2310200412",
+    "name": "龙湖·铂金岛",
+    "price": "15500",
+    "img_url": "https://js.soufunimg.com/homepage/new/fang905bj/newsV3/images/icon041002.png",
+    "map_url": "https://nc.newhouse.fang.com/loupan/2310200412.htm#detail_map",
+    "phone": [
+      "400-176-0760 ",
+      " 717959"
+    ],
+    "latitude": "28.650781631469727",
+    "longitude": "115.96408081054688",
+    "history_price": [
+      {
+        "year": "2022",
+        "month": "06",
+        "price": "15500"
+      },
+      {
+        "year": "2022",
+        "month": "05",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "04",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "03",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "--"
+      },
+      {
+        "year": "2022",
+        "month": "02",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "12",
+        "price": "--"
+      },
+      {
+        "year": "2021",
+        "month": "11",
+        "price": "--"
       }
     ]
   },
