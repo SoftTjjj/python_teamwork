@@ -32,13 +32,13 @@ def get_page(page: int) -> list[School]:
 
     ak = 'RcFMxuBRNQ8m7PO7PB2DuMxeibaRqojR'
     params = {
-        "query": "学校",
-        "tag": "教育培训",
-        "region": "南昌",
-        "output": "json",
+        'query': '学校',
+        'tag': '教育培训',
+        'region': '南昌',
+        'output': 'json',
         'page_num': page,
         'page_size': 20,
-        "ak": ak,
+        'ak': ak,
     }
 
     res = requests.get(

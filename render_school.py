@@ -81,15 +81,15 @@ if __name__ == '__main__':
     scatter.set_global_opts(
         title_opts=opts.TitleOpts(title='南昌各地房价与学校距离加权图'),
         xaxis_opts=opts.AxisOpts(
-            type_="value",
+            type_='value',
             splitline_opts=opts.SplitLineOpts(is_show=True),
         ),
         yaxis_opts=opts.AxisOpts(
-            type_="value",
+            type_='value',
             splitline_opts=opts.SplitLineOpts(is_show=True),
         ),
         tooltip_opts=opts.TooltipOpts(formatter=JsCode(
             "function (params) {return params.value[2] + ' : ' + params.value[1];}"
         )),
     )
-    scatter.render("./output/南昌各地房价与学校距离加权图.html")
+    scatter.render('./output/南昌各地房价与学校距离加权图.html')

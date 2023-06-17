@@ -20,52 +20,39 @@ def add_point(geo, path, locate):
         if latitude != 'None' and longitude != 'None':
             geo.add_coordinate(name, float(longitude), float(latitude))
             data_pair_list.append((name, locate))
-    geo.add(
-        series_name=locate,
-        data_pair=data_pair_list,
-        symbol_size=7
-    )
+    geo.add(series_name=locate, data_pair=data_pair_list, symbol_size=7)
 
 
 if __name__ == '__main__':
-    geo = charts.Geo(
-        init_opts=options.InitOpts(
-            page_title='南昌楼市数据',
-            width='100%',
-            height='958px'
-        )
-    )
+    geo = charts.Geo(init_opts=options.InitOpts(
+        page_title='南昌楼市数据', width='100%', height='958px'))
 
     geo.set_global_opts(
         title_opts=options.TitleOpts(
             title='南昌楼市数据',
             pos_left='50%',
-            pos_top='20px'
+            pos_top='20px',
         ),
         legend_opts=options.LegendOpts(
             is_show=True,
-            pos_left="10%",
-            pos_top="20%",
-            orient="vertical"
+            pos_left='10%',
+            pos_top='20%',
+            orient='vertical',
         ),
         tooltip_opts=options.TooltipOpts(
             is_show=True,
-            formatter="{a}:{b}"
-        )
+            formatter='{a}:{b}',
+        ),
     )
 
     geo.add_schema(maptype='南昌')
 
     for area in BuildingAreaConstance.areas:
-        add_point(geo, f"./data/building_area/{area}.json",  "楼盘")
-    add_point(geo, f"./data/hospitals.json", "医院")
-    add_point(geo, f"./data/markets.json",  "商场")
-    add_point(geo, f"./data/schools.json", "学校")
+        add_point(geo, f'./data/building_area/{area}.json', '楼盘')
+    add_point(geo, './data/hospitals.json', '医院')
+    add_point(geo, './data/markets.json', '商场')
+    add_point(geo, './data/schools.json', '学校')
 
-    geo.set_series_opts(
-        label_opts=options.LabelOpts(
-            is_show=False
-        )
-    )
+    geo.set_series_opts(label_opts=options.LabelOpts(is_show=False))
 
-    geo.render("./output/render_map.html")
+    geo.render('./output/render_map.html')
